@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "title": "Seller Center",
+    "description": "Seller Center Cencosud"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "Sorry, we couldn't find the page you're looking for. It might have been moved, deleted, or never existed.",
+    "back": "Back to home"
+  },
+  "home": {
+    "welcome": "Welcome to our website!"
+  },
+  "sidebar": {
+    "home": "Home",
+    "products": "Products",
+    "sales": "Sales",
+    "stock": "Stock",
+    "afterSales": "AfterSales",
+    "finance": "Finance",
+    "metrics": "Metrics",
+    "campaigns": "Campaigns",
+    "settings": "Settings",
+    "help": "Help"
+  },
+  "login": {
+    "title": "Login",
+    "subtitle": "Enter your credentials to access your account",
+    "email": "Email",
+    "password": "Password",
+    "login": "Login",
+    "forgotPassword": "Forgot your password?",
+    "createAccount": "Create account",
+    "dontHaveAccount": "Don't have an account?"
+  }
+}
